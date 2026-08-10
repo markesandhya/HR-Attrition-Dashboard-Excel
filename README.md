@@ -2,7 +2,8 @@
 
 An interactive HR analytics dashboard built in Excel to analyze employee attrition patterns across departments, job satisfaction levels, overtime status, and compensation — using a mock dataset of 1,200 employee records.
 
-![Dashboard Preview](dashboard_screenshot.png)
+### Live Demo
+   ![Dashboard Demo](dashboard_demo.gif)
 
 ## 📊 Project Overview
 
